@@ -1,0 +1,11 @@
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\SampleWebApi.Data2.dll.config
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\SampleWebApi.Data2.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\SampleWebApi.Data2.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\EntityFramework.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\EntityFramework.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\obj\Debug\SampleWebApi.Data2.csprojAssemblyReference.cache
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\obj\Debug\SampleWebApi.Data2.csproj.CopyComplete
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\obj\Debug\SampleWebApi.Data2.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\obj\Debug\SampleWebApi.Data2.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data2\bin\Debug\EntityFramework.SqlServer.xml

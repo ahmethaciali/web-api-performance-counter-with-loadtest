@@ -1,0 +1,17 @@
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Business.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Business.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Core.Common.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Core.Common.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.csprojAssemblyReference.cache
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.csproj.CopyComplete
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Business.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Business.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Core.Common.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\bin\Debug\SampleWebApi.Core.Common.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.csprojAssemblyReference.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.csproj.CopyComplete
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business.Contracts\obj\Debug\SampleWebApi.Business.Contracts.pdb

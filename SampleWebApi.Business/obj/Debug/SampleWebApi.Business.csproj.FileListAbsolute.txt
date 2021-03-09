@@ -1,0 +1,81 @@
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\AutoMapper.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.Common.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data2.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\EntityFramework.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.Common.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data2.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data2.dll.config
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\AutoMapper.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\EntityFramework.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.csprojAssemblyReference.cache
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.csproj.CopyComplete
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\log4net.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Mvc.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Ninject.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Razor.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\log4net.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Mvc.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Ninject.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Razor.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Sample.WebApi.Integration.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Sample.WebApi.Integration.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\AutoMapper.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Sample.WebApi.Integration.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.Common.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data2.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\log4net.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Ninject.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\EntityFramework.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Sample.WebApi.Integration.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Business.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.Common.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Core.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data2.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\SampleWebApi.Data2.dll.config
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\AutoMapper.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\log4net.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\Ninject.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\EntityFramework.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.csprojAssemblyReference.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.csproj.CopyComplete
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Business\obj\Debug\SampleWebApi.Business.pdb

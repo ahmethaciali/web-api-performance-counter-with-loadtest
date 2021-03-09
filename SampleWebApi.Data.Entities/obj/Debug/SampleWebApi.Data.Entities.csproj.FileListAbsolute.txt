@@ -1,0 +1,11 @@
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\SampleWebApi.Data.Entities.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\SampleWebApi.Data.Entities.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\obj\Debug\SampleWebApi.Data.Entities.csprojAssemblyReference.cache
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\obj\Debug\SampleWebApi.Data.Entities.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\obj\Debug\SampleWebApi.Data.Entities.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\SampleWebApi.Data.Entities.dll.config
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Entities\obj\Debug\SampleWebApi.Data.Entities.csproj.CopyComplete

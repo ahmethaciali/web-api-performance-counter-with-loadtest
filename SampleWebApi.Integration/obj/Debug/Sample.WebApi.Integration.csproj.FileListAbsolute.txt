@@ -1,0 +1,55 @@
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Sample.WebApi.Integration.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Sample.WebApi.Integration.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.csprojAssemblyReference.cache
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.csproj.CopyComplete
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.Common.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\log4net.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Mvc.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Ninject.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Razor.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.Common.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\log4net.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Mvc.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Ninject.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Razor.xml
+C:\Projects\WebApi\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Sample.WebApi.Integration.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Sample.WebApi.Integration.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.Common.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\log4net.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Mvc.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Ninject.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Razor.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.Common.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\SampleWebApi.Core.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\log4net.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Mvc.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\Ninject.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.Razor.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.csprojAssemblyReference.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.csproj.CoreCompileInputs.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.csproj.CopyComplete
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\Sample.WebApi.Integration\obj\Debug\Sample.WebApi.Integration.pdb

@@ -1,0 +1,6 @@
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\bin\Release\SampleWebApi.Data.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\bin\Release\SampleWebApi.Data.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Release\SampleWebApi.Data.Contracts.csprojAssemblyReference.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Release\SampleWebApi.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Release\SampleWebApi.Data.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Release\SampleWebApi.Data.Contracts.pdb

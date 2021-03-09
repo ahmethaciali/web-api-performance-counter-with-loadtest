@@ -1,0 +1,11 @@
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.csprojAssemblyReference.cache
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\bin\Debug\SampleWebApi.Data.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\bin\Debug\SampleWebApi.Data.Contracts.pdb
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.dll
+C:\Projects\WebApi\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\bin\Debug\SampleWebApi.Data.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\bin\Debug\SampleWebApi.Data.Contracts.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.csprojAssemblyReference.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\SampleWebApi.Data.Contracts\obj\Debug\SampleWebApi.Data.Contracts.pdb

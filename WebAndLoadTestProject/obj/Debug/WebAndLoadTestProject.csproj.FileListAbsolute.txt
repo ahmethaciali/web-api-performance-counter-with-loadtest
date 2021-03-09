@@ -1,0 +1,10 @@
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\bin\Debug\WebTest1.webtest
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\bin\Debug\LoadTest1.loadtest
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\bin\Debug\WebAndLoadTestProject.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\bin\Debug\WebAndLoadTestProject.pdb
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.csprojAssemblyReference.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.csproj.CoreCompileInputs.cache
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.csproj.CopyComplete
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.dll
+C:\Users\ahaciali\Desktop\Yıllık Hedef\Performance Counter\Projeler\SampleApi\SampleWebApi\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.pdb

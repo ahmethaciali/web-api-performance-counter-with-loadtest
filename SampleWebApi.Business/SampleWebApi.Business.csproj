@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1FDD38EC-725F-4D29-847B-0E6070BDACC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SampleWebApi.Business</RootNamespace>
+    <AssemblyName>SampleWebApi.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.10.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessEngineBase.cs" />
+    <Compile Include="ExchangeRateEngine.cs" />
+    <Compile Include="Helper\ExchangeRateHelper.cs" />
+    <Compile Include="PerformanceCounterHelper\AverageCount64.cs" />
+    <Compile Include="PerformanceCounterHelper\AverageTimer32.cs" />
+    <Compile Include="PerformanceCounterHelper\IPerformanceCounter.cs" />
+    <Compile Include="PerformanceCounterHelper\NumberOfItems.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.WebApi.Integration\SampleWebApi.Integration.csproj">
+      <Project>{7E635ACA-C540-4CE9-9FE8-541DE2CC5A76}</Project>
+      <Name>SampleWebApi.Integration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SampleWebApi.Business.Contracts\SampleWebApi.Business.Contracts.csproj">
+      <Project>{82E34AAE-BF61-475F-A320-4BF4574CD53E}</Project>
+      <Name>SampleWebApi.Business.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SampleWebApi.Core.Common.Contracts\SampleWebApi.Core.Common.Contracts.csproj">
+      <Project>{EB9ABB6A-4280-4F49-B39A-21FE9137AB21}</Project>
+      <Name>SampleWebApi.Core.Common.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SampleWebApi.Core\SampleWebApi.Core.csproj">
+      <Project>{C2A42F02-3B8F-49E1-BA65-FB0C475CAA9F}</Project>
+      <Name>SampleWebApi.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SampleWebApi.Data.Contracts\SampleWebApi.Data.Contracts.csproj">
+      <Project>{B12C17BD-2347-4B65-A70E-D05A7CD87DD9}</Project>
+      <Name>SampleWebApi.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SampleWebApi.Data2\SampleWebApi.Data.csproj">
+      <Project>{E71F7BC4-3985-4842-BECF-059542CE3D9B}</Project>
+      <Name>SampleWebApi.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
